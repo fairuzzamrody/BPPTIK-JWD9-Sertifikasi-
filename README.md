@@ -40,13 +40,12 @@ https://www.figma.com/file/kMOEvRceWIHFOLWkyMouRW/aplikasi-tiket-wisata-surabaya
 
 https://www.figma.com/proto/kMOEvRceWIHFOLWkyMouRW/aplikasi-tiket-wisata-surabaya?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
 
-- Gambar Prototype Kalkulator ( Figma )
+- Gambar Prototype Aplikasi ( Figma )
 
-<img width="960" alt="Kalkulator1" src="https://user-images.githubusercontent.com/61002522/193242382-e6f6f8d1-a2aa-4436-9ec6-eca0a45b74ec.png">
+<img width="959" alt="ss figma" src="https://user-images.githubusercontent.com/61002522/197343310-df501bfc-fdec-4620-b07e-0347a9587899.png">
 
 
-
-- Hasil Implementasi
+- Hasil Implementasi (web browser)
 <img width="945" alt="ss index" src="https://user-images.githubusercontent.com/61002522/197343239-09da8bcc-c614-4462-b6c5-0b272687c6fc.png">
 
 ### 🤝 Bagaimana saya berkontribusi?
