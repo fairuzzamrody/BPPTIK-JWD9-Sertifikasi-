@@ -1,7 +1,7 @@
 <h1>Repository Sertifikasi BPPTIK JWD9 2022 </h1>
 
 ## ✨ Deskripsi Project
-- Kalukulator sederhana adalah aplikasi untuk menghitung dari perhitungan sederhana seperti (penjumlahan,pengurangan,perkalian dan pembagian)
+- Aplikasi Tiket Wisata Surabaya hadir sebagai solusi bagi masyarakat untuk menikmati obyek wisata Kota Surabaya dengan kemudahan informasi pemesanan tiket berbasis online. Aplikasi Tiket Wisata Surabaya menawarkan kemudahan seperti beli tiket cuma butuh 3 langkah saja yaitu Klik Pesan Tiket, Isi Form Pemesanan, Unduh Tiket. Mudah banget kan !
 
 ## 🔍 Jenis Aplikasi
 - Aplikasi ini berbasis web, aplikasi ini bisa berjalan di PHP versi terbaru
