@@ -7,7 +7,10 @@
 - Aplikasi ini berbasis web, aplikasi ini bisa berjalan di PHP versi terbaru
 
 ## 📆 Release Date
-- 23 Agustus 2022
+- 23 Oktober 2022
+
+## 👋 Developed By
+- Fairuz Zamrody
 
 ## 📝 Persyaratan Penggunaan 
 - Versi PHP 7 atau lebih baru.
