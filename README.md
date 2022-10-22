@@ -33,9 +33,12 @@ Ketikkan http://localhost/nama_folder_aplikasi
 📸 Preview 
 </h2>
 
+- File Desain ( Figma )
+https://www.figma.com/file/kMOEvRceWIHFOLWkyMouRW/aplikasi-tiket-wisata-surabaya?node-id=0%3A1
+
 - File Prototype ( Figma )
 
-https://www.figma.com/proto/JruKj4qJpQ8DZs5kNADGtX/tugas6-ui-kalkulator?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2
+https://www.figma.com/proto/kMOEvRceWIHFOLWkyMouRW/aplikasi-tiket-wisata-surabaya?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
 
 - Gambar Prototype Kalkulator ( Figma )
 
