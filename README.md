@@ -30,3 +30,22 @@ Ketikkan http://localhost/nama_folder_aplikasi
 
 
 <h2>
+📸 Preview 
+</h2>
+
+- File Prototype ( Figma )
+
+https://www.figma.com/proto/JruKj4qJpQ8DZs5kNADGtX/tugas6-ui-kalkulator?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2
+
+- Gambar Prototype Kalkulator ( Figma )
+
+<img width="960" alt="Kalkulator1" src="https://user-images.githubusercontent.com/61002522/193242382-e6f6f8d1-a2aa-4436-9ec6-eca0a45b74ec.png">
+
+
+
+- Hasil Implementasi
+<img width="945" alt="kalkulatorweb" src="https://user-images.githubusercontent.com/61002522/193046756-46dc14b6-d50e-4cb7-9cb4-5f92f5b84914.png">
+
+### 🤝 Bagaimana saya berkontribusi?
+
+Aplikasi ini Open Source dan jika kamu ingin berkontribusi dalam pengembangan untuk belajar silahkan Clone Repo ini dan Pull Requests.
