@@ -1,4 +1,4 @@
-<h1> Ini Repository Sertifikasi BPPTIK JWD9 2022 </h1>
+<h1>Repository Sertifikasi BPPTIK JWD9 2022 </h1>
 
 ## ✨ Deskripsi Project
 - Kalukulator sederhana adalah aplikasi untuk menghitung dari perhitungan sederhana seperti (penjumlahan,pengurangan,perkalian dan pembagian)
