@@ -3,14 +3,17 @@
 ## ✨ Deskripsi Project
 - Aplikasi Tiket Wisata Surabaya hadir sebagai solusi bagi masyarakat untuk menikmati obyek wisata Kota Surabaya dengan kemudahan informasi pemesanan tiket berbasis online. Aplikasi Tiket Wisata Surabaya menawarkan kemudahan seperti beli tiket cuma butuh 3 langkah saja yaitu Klik Pesan Tiket, Isi Form Pemesanan, Unduh Tiket. Mudah banget kan !
 
+## 👋 Developed By
+- Fairuz Zamrody
+
 ## 🔍 Jenis Aplikasi
 - Aplikasi ini berbasis web, aplikasi ini bisa berjalan di PHP versi terbaru
 
 ## 📆 Release Date
 - 23 Oktober 2022
 
-## 👋 Developed By
-- Fairuz Zamrody
+## ⚡ Metode pengembangan
+- SDLC - Waterfall
 
 ## 📝 Persyaratan Penggunaan 
 - Versi PHP 7 atau lebih baru.
