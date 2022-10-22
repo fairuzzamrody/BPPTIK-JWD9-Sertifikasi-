@@ -47,7 +47,7 @@ https://www.figma.com/proto/kMOEvRceWIHFOLWkyMouRW/aplikasi-tiket-wisata-surabay
 
 
 - Hasil Implementasi
-<img width="945" alt="kalkulatorweb" src="https://user-images.githubusercontent.com/61002522/193046756-46dc14b6-d50e-4cb7-9cb4-5f92f5b84914.png">
+<img width="945" alt="ss index" src="https://user-images.githubusercontent.com/61002522/197343239-09da8bcc-c614-4462-b6c5-0b272687c6fc.png">
 
 ### 🤝 Bagaimana saya berkontribusi?
 
