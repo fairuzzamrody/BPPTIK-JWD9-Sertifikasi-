@@ -21,8 +21,8 @@
 - XAMPP ( Atau apps web server lain )
 
 ## 💡 Cara Instalasi
-- Download Aplikasi Tiket Wisata Kota Surabaya pada salah satu link berikut: [Tugas6_FairuzZamrody.zip](https://github.com/fairuzzamrody/JWD-09-2022/files/9675204/Tugas6_FairuzZamrody.zip)
-- Setelah berhasil di download, Ektrack File Tugas6_FairuzZamrody.zip dan **Pindahkan** direktori _htdocs_
+- Download Aplikasi Tiket Wisata Kota Surabaya 
+- Setelah berhasil di download, Ektrack File  dan **Pindahkan** direktori _htdocs_
 
 
 ## ⚙️ Cara Menjalankan Aplikasi
@@ -31,8 +31,7 @@
 Ketikkan http://localhost/nama_folder_aplikasi
 
 ## 💻 Cara Menggunakan Aplikasi
-- Ketikkan Angka yang ingin anda hitung pada Inputan Bilangan 1 dan Bilangan 2
-- Setalah Angka dimasukkan, Klik Tombol (+ - * /) untuk menampilkan hasil
+- lakukan pemesanan tiket dengan berbagai studi kasus
 
 
 <h2>
